@@ -1,15 +1,11 @@
-### Surfin the web 
+### Welcome to the code dump page.
+I'm passionate about building tools that empower people. I usually build in Typsescript and Python. Currenly fixated on LLMs, Chat interfaces, and Civic tech.
+Also a fan of Real Estate, specifically Co-Living and Equitable ownership models. 
 
-<!--
-**LadyKerr/LadyKerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current Projects
+https://boycott-tracker.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+## Coming back later
+
+## Abandoned Projects
