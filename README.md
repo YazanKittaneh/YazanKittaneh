@@ -3,9 +3,8 @@ Building tools that empower people. I usually build in Typescript/Javascript and
 Also a fan of Real Estate, specifically Co-Living and Equitable ownership models. 
 
 
-## Current Projects
-https://boycott-tracker.com/
+## Current projects
+(OpenSpar)[https://github.com/YazanKittaneh/OpenSpar/tree/main]
 
-## Coming back later
-
-## Abandoned Projects
+## Will circle back around later
+(Boycott Tracker)[https://boycott-tracker.com/]
