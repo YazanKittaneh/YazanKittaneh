@@ -4,8 +4,8 @@ Also a fan of Real Estate, specifically Co-Living and Equitable ownership models
 
 
 ## Current projects
-[OpenSpar](https://github.com/YazanKittaneh/OpenSpar/tree/main)
-[Who Owns What - Chicago version](https://github.com/YazanKittaneh/who-owns-what)
+- [OpenSpar](https://github.com/YazanKittaneh/OpenSpar/tree/main)
+- [Who Owns What - Chicago version](https://github.com/YazanKittaneh/who-owns-what)
 
 ## Will circle back around later
-[Boycott Tracker](https://boycott-tracker.com/)
+- [Boycott Tracker](https://boycott-tracker.com/)
